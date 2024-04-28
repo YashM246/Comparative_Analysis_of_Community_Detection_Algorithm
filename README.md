@@ -1,0 +1,10 @@
+Community Detection in complex networks has always been
+a topic of significant interest in network science, with numerous papers
+and algorithms proposing to uncover the underlying structures within
+networks. In this paper, we conduct a comparative analysis of several
+prominent community detection algorithms applied to SNAP Social Circles Dataset, derived from the Facebook social network. The algorithms
+implemented include Louvain, Girvan-Newman, Spectral Clustering, KMeans Clustering, etc. We evaluate the performance of these algorithms
+based on various metrics such as modularity, normalized cut-ratio, silhouette score, compactness, and separability. Our findings reveal insights
+into the effectiveness of each algorithm in detecting various meaningful
+communities within the social network, shedding light on their strength
+and limitations. This research contributes to the understanding of community detection methods and provides valuable guidance for their application in analyzing real-world social networks.
